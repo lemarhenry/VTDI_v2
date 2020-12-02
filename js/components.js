@@ -27,16 +27,16 @@ navBar = () => {
       <a class="nav-link" href="/">Home </a>
     </li>
         <li class="nav-item">
-          <a class="nav-link " href="/about_us.html">About </a>
+          <a class="nav-link " href="/pages/about_us.html">About </a>
         </li>
         <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink-333" data-toggle="dropdown"
           aria-haspopup="true" aria-expanded="false">Faculty & Staff
         </a>
         <div class="dropdown-menu dropdown-default" -labelledby="navbarDropdownMenuLink-333">
-          <a class="dropdown-item" href="/senior_staff_kgn.html">Kingston</a>
-          <a class="dropdown-item" href="/senior_staff_mdv.html">Mandeville (Extention Site)</a>
-          <a class="dropdown-item" href="/senior_staff_mbay.html">Montego Bay (Extention Site)</a>
+          <a class="dropdown-item" href="/pages/senior_staff_kgn.html">Kingston</a>
+          <a class="dropdown-item" href="/pages/senior_staff_mdv.html">Mandeville (Extention Site)</a>
+          <a class="dropdown-item" href="/pages/senior_staff_mbay.html">Montego Bay (Extention Site)</a>
         </div>
       </li>
         
@@ -44,7 +44,7 @@ navBar = () => {
         <a class="nav-link" href="#">Programmes </a>
       </li>
       <li class="nav-item">
-      <a class="nav-link" href="/contact_us.html">Contact Us</a>
+      <a class="nav-link" href="/pages/contact_us.html">Contact Us</a>
     </li>
       </ul>
 
